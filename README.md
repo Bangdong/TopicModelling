@@ -30,4 +30,18 @@ The goal of this GitHub page is to help you get started with Python for topic mo
 
 <h2 id="setup">Getting your Python setup ready</h2>
 
->Install packages by using 'pip' command
+>Install packages by using `pip` command:
+>
+>`pip install os`<br>
+>`pip install pandas`<br>
+>`pip install re`<br>
+>`pip install numpy`<br>
+>`pip install nltk`<br>
+>`pip install gensim`<br>
+>`pip install spacy`<br>
+>`pip install en_core_web_sm`<br>
+>`pip install pyLDAvis`<br>
+>`pip install matplotlib`<br>
+>
+
+There are two ways to use this code.
