@@ -44,4 +44,11 @@ The goal of this GitHub page is to help you get started with Python for topic mo
 >`pip install matplotlib`<br>
 >
 
-There are two ways to use this code.
+
+<h2 id="license">License</h2>
+
+[MIT](LICENSE) - Bangdong Zhi - 2019
+
+<h2 id="specialthanks">Special Thanks</h2>
+
+https://github.com/TiesdeKok/LearnPythonforResearch for providing a brilliant template. 
