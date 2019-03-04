@@ -1,7 +1,13 @@
-# TopicModelling
+# TopicModelling 
 This repository intends to help researchers **identify key topics** in specific research field. 
 
 The repository of **Topic Modelling** mainly includes two procedures: clean the text and visullize the topics.
+<h1 align="center">
+  
+  ![1_ppip7twjjuknfohzqtl8pq](https://user-images.githubusercontent.com/42145350/53761606-dd0f0180-3ebd-11e9-8b08-897d8b320a3f.png)
+  
+ </h1>
+  
 
 <p align="center"> 
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
