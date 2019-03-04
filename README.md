@@ -10,6 +10,7 @@ The repository of **Topic Modelling** mainly includes two procedures: clean the 
 
 
 <p align="center">
-  What to know how to use <strong>Python<strong> for topic modelling?
+  Do you want to know how to use <strong>Python<strong> for topic modelling?
+  This repository contains everthing that you need.
   
 </p>
