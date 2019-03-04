@@ -19,8 +19,15 @@ The repository of **Topic Modelling** mainly includes two procedures: clean the 
 Tables of content
 
   * [Introduction](#introduction)
+  * [Getting your Python setup ready](#setup)
+  * [License](#license)
+  * [Special thanks](#specialthanks)
 
 
 <h2 id="introduction">Introduction</h2>
 
 The goal of this GitHub page is to help you get started with Python for topic modelling. 
+
+<h2 id="setup">Getting your Python setup ready</h2>
+
+>Install packages by using 'pip' command
