@@ -20,6 +20,8 @@ Tables of content
 
   * [Introduction](#intro)
   * [Set up the environment for your python](#environment)
+  * [Clean your text](#clean)
+  * [visualize your text](#vis)
   * [License](#license)
 
 
@@ -43,7 +45,10 @@ The goal of this GitHub page is to help you get started with Python for topic mo
 >`pip install matplotlib`<br>
 >
 
-
+<h2 id="clean">Clean your text</h2>
+* [`AbstractClean.ipynb`](AbstractClean.ipynb) details how to clean texts you downloaded from the website.
+<h2 id="vis">Visualize your text</h2>
+* [`Classification.ipynb`](Classification.ipynb) details how to extract and visualize keywords in each document.
 <h2 id="license">License</h2>
 
 [MIT](LICENSE) - Bangdong Zhi - 2019
