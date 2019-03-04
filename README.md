@@ -46,14 +46,17 @@ The goal of this GitHub page is to help you get started with Python for topic mo
 >
 
 <h2 id="clean">Clean your text</h2>
-* AbstractClean.ipynb details how to clean texts you downloaded from the website.
+* AbstractClean.ipynb details how to clean texts you downloaded from the website.<br>
 The format of insearted data is as follows:
+![capture0](https://user-images.githubusercontent.com/42145350/53761304-23b02c00-3ebd-11e9-916c-1eac8cb4bfa9.PNG)
 
 <h2 id="vis">Visualize your text</h2>
-* Classification.ipynb details how to extract and visualize keywords in each document.
-
+* Classification.ipynb details how to extract and visualize keywords in each document.<br>
+![capture1](https://user-images.githubusercontent.com/42145350/53761321-2c086700-3ebd-11e9-9dfd-d30dc3924c81.PNG)
 Visualization looks like this:
 
+
+![capture2](https://user-images.githubusercontent.com/42145350/53761326-2dd22a80-3ebd-11e9-9724-4c3d7b8b564c.PNG)
 
 <h2 id="license">License</h2>
 
