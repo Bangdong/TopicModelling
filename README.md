@@ -18,17 +18,16 @@ The repository of **Topic Modelling** mainly includes two procedures: clean the 
 
 Tables of content
 
-  * [Introduction](#introduction)
-  * [Getting your Python setup ready](#setup)
+  * [Introduction](#intro)
+  * [Set up the environment for your python](#environment)
   * [License](#license)
-  * [Special thanks](#specialthanks)
 
 
-<h2 id="introduction">Introduction</h2>
+<h2 id="intro">Introduction</h2>
 
 The goal of this GitHub page is to help you get started with Python for topic modelling. 
 
-<h2 id="setup">Getting your Python setup ready</h2>
+<h2 id="environment">Set up the environment for your python</h2>
 
 >Install packages by using `pip` command:
 >
@@ -48,7 +47,3 @@ The goal of this GitHub page is to help you get started with Python for topic mo
 <h2 id="license">License</h2>
 
 [MIT](LICENSE) - Bangdong Zhi - 2019
-
-<h2 id="specialthanks">Special Thanks</h2>
-
-https://github.com/TiesdeKok/LearnPythonforResearch for providing a brilliant template. 
