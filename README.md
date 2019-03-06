@@ -1,7 +1,7 @@
 # TopicModelling 
 This repository intends to help researchers **identify key topics** in specific research field. 
 
-The repository of **Topic Modelling** mainly includes two procedures: clean the text and visullize the topics.
+The repository of **Topic Modelling** mainly includes two procedures: clean the text and visualize the topics.
 <h1 align="center">
   
   ![1_ppip7twjjuknfohzqtl8pq](https://user-images.githubusercontent.com/42145350/53761606-dd0f0180-3ebd-11e9-8b08-897d8b320a3f.png)
@@ -22,12 +22,12 @@ The repository of **Topic Modelling** mainly includes two procedures: clean the 
 </p>
 
 
-Tables of content
+Tables of Content
 
   * [Introduction](#intro)
-  * [Set up the environment for your python](#environment)
+  * [Set up the environment for your Python](#environment)
   * [Clean your text](#clean)
-  * [visualize your text](#vis)
+  * [Visualize your text](#vis)
   * [License](#license)
 
 
@@ -52,8 +52,8 @@ The goal of this GitHub page is to help you get started with Python for topic mo
 >
 
 <h2 id="clean">Clean your text</h2>
-* AbstractClean.ipynb details how to clean texts you downloaded from the website.<br>
-The format of insearted data is as follows:<br>
+* AbstractClean.ipynb details how to clean the text you downloaded from the website.<br>
+The format of inserted data is as follows:<br>
 
 ![capture0](https://user-images.githubusercontent.com/42145350/53761304-23b02c00-3ebd-11e9-916c-1eac8cb4bfa9.PNG)
 
